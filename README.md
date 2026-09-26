@@ -19,9 +19,10 @@ Ce qui m'intéresse : les méthodes qui relient la **mesure brute à une décisi
 
 ### 🔬 Projets & recherche
 
-**Déconvolution bayésienne et modèles de diffusion** — *Travail d'Étude et de Recherche* · `Python` `PyTorch` `NumPy`
+**[Déconvolution bayésienne et modèles de diffusion](https://github.com/Meziane-KM/TER-deconvolution-wiener-hunt-dps)** — *Travail d'Étude et de Recherche, laboratoire L2S* · `Python` `PyTorch` `NumPy` · 📄 [mémoire de 50 pages](https://github.com/Meziane-KM/TER-deconvolution-wiener-hunt-dps)
 - Reproduction de **Diffusion Posterior Sampling** (Chung et al., 2023) pour la résolution de problèmes inverses en imagerie (déconvolution)
 - Chaîne complète, du modèle direct à l'évaluation quantitative : comparaison au filtre de Wiener et à une régularisation bayésienne à hyperparamètres estimés automatiquement
+- Résultat : Wiener-Hunt 25,68 dB vs DPS 24,46 dB en régime mono-image (image dégradée : 23,51 dB)
 
 **Commande par modes glissants d'un bras robotique 3 DDL** · `MATLAB/Simulink` `dSPACE` `centrale inertielle`
 - Modélisation dynamique, synthèse d'une loi SMC et **implémentation temps réel sur cible dSPACE**
