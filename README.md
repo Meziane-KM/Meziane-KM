@@ -23,7 +23,7 @@
 I design algorithms that turn **raw measurements into reliable decisions**: reconstructing images from blurred, noisy data, detecting and classifying objects, and controlling physical systems in real time.
 
 - 🎓 **M2 ATSI** (Automatique, Traitement du Signal et des Images), Université Paris-Saclay, with CentraleSupélec, IOGS and ENS Paris-Saclay
-- 🔬 **Research project at L2S**: Bayesian image deconvolution with automatic hyperparameter estimation, compared with **Diffusion Posterior Sampling** (diffusion-model priors)
+- 🔬 **Research project (TER)**: Bayesian image deconvolution with automatic hyperparameter estimation, compared with **Diffusion Posterior Sampling** (diffusion-model priors)
 - 🎯 **Looking for** a 6-month internship (March → September 2027) in **computer vision, medical imaging, perception / ADAS or signal processing**, ideally on real data rather than toy datasets
 - 🌍 French (fluent) · English (professional working proficiency)
 
@@ -32,7 +32,7 @@ I design algorithms that turn **raw measurements into reliable decisions**: reco
 ### 🔬 Featured project
 
 #### [Bayesian deconvolution: Wiener-Hunt filter vs. diffusion models (DPS)](https://github.com/Meziane-KM/TER-deconvolution-wiener-hunt-dps)
-*Research project (TER), L2S lab, Université Paris-Saclay · supervised by François Orieux · 50-page report*
+*Research project (TER), Université Paris-Saclay · supervised by François Orieux · 50-page report*
 
 - Recover a sharp image from a blurred, noisy observation $z = Hx + b$ (an **ill-posed inverse problem**)
 - **Wiener-Hunt** quadratic regularization solved in closed form with FFT (circulant approximation, $O(N \log N)$)
@@ -112,7 +112,7 @@ Scientific Computing in Python · Estimation & Identification (Kalman, ML, Cram�
 
 Étudiant en **Master 2 ATSI** (Automatique, Traitement du Signal et des Images) à l'Université Paris-Saclay. Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027** en **vision par ordinateur, imagerie, perception ou traitement du signal**.
 
-Mon TER au laboratoire L2S porte sur la **déconvolution d'images** : régularisation de Wiener-Hunt avec estimation automatique des hyperparamètres par inférence bayésienne, comparée à un a priori appris par **modèle de diffusion (DPS)**. J'ai aussi implémenté une commande par modes glissants en temps réel sur dSPACE, un pipeline de vision YOLOv8/OpenCV et un système de maintenance prédictive (LSTM / Random Forest).
+Mon TER porte sur la **déconvolution d'images** : régularisation de Wiener-Hunt avec estimation automatique des hyperparamètres par inférence bayésienne, comparée à un a priori appris par **modèle de diffusion (DPS)**. J'ai aussi implémenté une commande par modes glissants en temps réel sur dSPACE, un pipeline de vision YOLOv8/OpenCV et un système de maintenance prédictive (LSTM / Random Forest).
 
 N'hésitez pas à me contacter sur [LinkedIn](https://linkedin.com/in/meziane-kacidem) ou par [email](mailto:m.meziane.kacidem@gmail.com).
 </details>
